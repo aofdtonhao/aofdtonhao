@@ -1,5 +1,5 @@
 - Hi, I’m @aofdtonhao
-- I’m interested in on artificial intelligence
+- I’m interested in artificial intelligence
 - I’m currently learning Unity
 - I’m looking to collaborate on game development
 - How to reach me: aofdtonhao@gmail.com
